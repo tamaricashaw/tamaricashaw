@@ -13,7 +13,7 @@ This is my portfolio where I showcase the projects I have done ✨.
   Tools Used: Oracle VirtualBox, Windows 10 ISO, Kali Linux
 
 # Database Projects
-- 
+- [Basic Database](https://github.com/tamaricashaw/Simple_MYSQL_Database) Tools Used: MYSQL
 
 
 # Web Development Projects
